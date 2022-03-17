@@ -1,0 +1,6 @@
+{
+  "port" : 5000,
+  "jwtSecret":  "vasili mern project",
+  "mongoUri": "mongodb+srv://vasiliserver:vasya1767206@cluster0.phgjo.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl" : "http://localhost:5000"
+}
